@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
 <h1>Movie Recommend</h1>
 
 ![a스크린샷 2023-12-16 161205](https://github.com/boxion/movieRecommed/assets/93407332/bef32786-82ee-43af-b091-c0860da777b6)
