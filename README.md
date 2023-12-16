@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=54aeff&height=150&section=header" />
-
-<body>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <h1>Movie Recommend</h1>
 
@@ -30,3 +28,5 @@
 ![a스크린샷 2023-12-16 163139](https://github.com/boxion/movieRecommed/assets/93407332/f0f1642a-b911-4c58-8a14-80a428ddc469)
 ![a스크린샷 2023-12-16 163148](https://github.com/boxion/movieRecommed/assets/93407332/442c1b4c-c045-4974-a511-3ad8c77fbdb8)
 ![a스크린샷 2023-12-16 163157](https://github.com/boxion/movieRecommed/assets/93407332/69b8ef51-7190-45d5-a9f2-d4f9f6b073c5)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
