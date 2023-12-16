@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wavingMovie Recommend&color=BDBDC8&height=150&section=header" />
+![Movie Recommend](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Movie%20Recommend)
 
-![header](https://capsule-render.vercel.app/api?type=shark&desc=웹프레임워크1%20%22폼미쳤다%22%20&descSize=20&color=a5c1f1&height=250&section=header&text=%20medi💊%20&fontAlignY=30&descAlignY=50&animation=fadeIn&fontSize=60
-)
 <h1>Movie Recommend</h1>
 
 ![a스크린샷 2023-12-16 161205](https://github.com/boxion/movieRecommed/assets/93407332/bef32786-82ee-43af-b091-c0860da777b6)
