@@ -1,6 +1,5 @@
 ![Movie Recommend](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Movie%20Recommend)
 
-<h1>Movie Recommend</h1>
 
 ![a스크린샷 2023-12-16 161205](https://github.com/boxion/movieRecommed/assets/93407332/bef32786-82ee-43af-b091-c0860da777b6)
 ![a스크린샷 2023-12-16 162546](https://github.com/boxion/movieRecommed/assets/93407332/d15879ba-6fd0-4fc7-8c24-2e09baf6ce0f)
