@@ -32,4 +32,4 @@
 ![a스크린샷 2023-12-16 162806](https://github.com/boxion/movieRecommed/assets/93407332/1ab4f472-e069-4c1e-a0b8-ddfb67fb8841)
 ![a스크린샷 2023-12-16 162725](https://github.com/boxion/movieRecommed/assets/93407332/7fc1e58f-075c-424c-80f7-c4af15e534ff)
 ![a스크린샷 2023-12-16 162710](https://github.com/boxion/movieRecommed/assets/93407332/7935e74e-bb99-4b79-99da-04a66ac18093)
-![a스크린샷 2023-12-16 162702](https://github.com/boxion/movieRecommed/assets/93407332/832a2896-deed-4731-ac90-c9746e529501)
+
